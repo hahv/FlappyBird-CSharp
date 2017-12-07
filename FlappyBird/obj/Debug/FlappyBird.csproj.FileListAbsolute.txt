@@ -1,0 +1,14 @@
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\Resources\background.jpg
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\Resources\bird.png
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\Resources\ground.jpg
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\Resources\pipebottom.png
+C:\Users\HaHV\Dropbox\NH1718-HK1\FlappyBird\FlappyBird\bin\Debug\Resources\pipetop.png
